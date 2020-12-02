@@ -11,6 +11,8 @@
 
 I'm a final year student pursuing Bachelors's in Computer Science 🎓 from Maharaja Agrasen Institute of Technolofy 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.
 
+---
+
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/Amanthukral12/Amanthukral12/master/gifs/coder.gif" />
 
 ### Talking about Personal Stuffs:
@@ -21,7 +23,10 @@ I'm a final year student pursuing Bachelors's in Computer Science 🎓 from Maha
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
 - 📫 &nbsp; How to reach me: thukral618@gmail.com
 - 📝 &nbsp; Checkout my [Resume](https://github.com/Amanthukral12/Amanthukral12/blob/master/AMAN_THUKRAL_RESUME.pdf).
+
   <br/>
+
+  ***
 
 ### Languages and Tools:
 
@@ -44,6 +49,8 @@ I'm a final year student pursuing Bachelors's in Computer Science 🎓 from Maha
 
 <br/>
 
+---
+
 ### Projects and Dev Stuffs:
 
 <p align="center">
@@ -56,6 +63,8 @@ I'm a final year student pursuing Bachelors's in Computer Science 🎓 from Maha
   <br />
 
 <div align="center">
+
+---
 
 ### Show some ❤️ by starring some of the repositories!
 
