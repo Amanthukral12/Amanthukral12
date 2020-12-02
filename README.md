@@ -2,6 +2,8 @@
 
 ---
 
+<i>Let's get in touch</i>
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aman-thukral-574b37150/)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://Amanthukral12.github.io/)
 [![Gmail Badge](https://img.shields.io/badge/-thukral618-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thukral618@gmail.com)](mailto:thukral618@gmail.com)
