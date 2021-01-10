@@ -25,7 +25,7 @@ I'm a final year student pursuing Bachelors's in Computer Science 🎓 from Maha
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working with Reactjs, Nodejs, Express, <br /> Electronjs, Mongodb, Javascript, etc.
+- 🛠 &nbsp; I’m currently working with Reactjs, Nodejs, Express, PWA, <br /> Electronjs, Mongodb, Javascript, etc.
 - 🚀 &nbsp; I’m currently learning Full Stack Development.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Amanthukral12).
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
