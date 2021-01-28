@@ -30,7 +30,7 @@ I'm a final year student pursuing Bachelors's in Computer Science 🎓 from Maha
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Amanthukral12).
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
 - 📫 &nbsp; How to reach me: thukral618@gmail.com
-- 📝 &nbsp; Checkout my [Resume](https://github.com/Amanthukral12/Amanthukral12/blob/master/AMAN_THUKRAL_RESUME.pdf).
+- 📝 &nbsp; Checkout my [Resume](https://github.com/Amanthukral12/Amanthukral12/blob/master/AMAN-THUKRAL-RESUME.pdf).
 
   <br/>
 
