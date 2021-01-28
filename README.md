@@ -63,7 +63,7 @@ I'm a final year student pursuing Bachelors's in Computer Science 🎓 from Maha
 
 <p align="center">
   
-  ![Aman's github stats](https://github-readme-stats.vercel.app/api?username=Amanthukral12&hide=stars&show_icons=true&count_private=true&theme=dracula&line_height=40 )
+  ![Aman's github stats](https://github-readme-stats.vercel.app/api?username=Amanthukral12&fetch_all_commits=true&hide=stars&show_icons=true&count_private=true&theme=dracula&line_height=40)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amanthukral12&count_private=true&theme=dracula&line_height=40)](https://github.com/Amanthukral12/github-readme-stats)
 
 </p>
